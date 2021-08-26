@@ -7,5 +7,6 @@
 
 void main() 
 {
-    printf("Jason Klusaw/n");
+    printf("Jason Klusaw!\n");
+    printf("Undeclared\n");
 }
